@@ -34,3 +34,7 @@ pyvenv.cfg
 
 __init__.py
 
+cursos/migrations/
+
+escola/lib64
+
