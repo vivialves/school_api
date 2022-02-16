@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+__pycache__
+*.*~
+*.pyc
+.idea
+.vscode
+settings.py
+bin
+include
+lib
+lib64
+share
+pyvenv.cfg
